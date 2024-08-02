@@ -1,0 +1,70 @@
+#outer-div{
+    width: 97%;
+    height: 618px;
+   padding-top: 146px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.inner-items{
+    
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 9px 40px;;
+    font-weight: 200px;
+    font-size:20px;
+    
+    
+    
+}
+
+.inner-form{
+    /*background-image: linear-gradient(rgb(114, 75, 75) rgb(51, 51, 93) rgb(79, 36, 79));*/
+    border: 3px solid rgb(64, 64, 64);
+}
+
+ #signup{
+    font-size :xxx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+
+
+.btn{
+    
+    height: 38px;
+    width: 500px;
+    padding: 12px 27px;
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+    
+}
+
+.button{
+    border-radius:5px;
+    width: 114px;
+    height: 33px;
+    background-color: rgb(250, 254, 254);
+    color: black;
+}
+
+input{
+    padding: 9px 10px ;
+}
+
+a{
+    text-decoration: none;
+
+    
+}
+a:link{
+    color: aquamarine;
+}
+
+body{
+    background-image: url(https://wallpapercg.com/download/pixar-5120x2880-24432.jpg);
+}
